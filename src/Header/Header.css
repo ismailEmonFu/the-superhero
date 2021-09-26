@@ -1,0 +1,15 @@
+.header {
+    border: 2px solid salmon;
+    color: green;
+    background-color: whitesmoke;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+.delegate{
+    color: rgb(59, 17, 126);
+    font-size: large;
+}
+.heart-patient{
+    color: red;
+}
